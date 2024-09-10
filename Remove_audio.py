@@ -19,4 +19,3 @@ if __name__ == "__main__":
     base_name, ext = os.path.splitext(input_file)
     output_file = f"{base_name}_no_audio{ext}"
     remove_audio_moviepy(input_file, output_file)
-ahbhbshbhbabbadshdb
